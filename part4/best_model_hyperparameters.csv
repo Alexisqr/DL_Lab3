@@ -1,0 +1,6 @@
+layer_name,units,activation
+InputLayer,N/A,N/A
+Dense,992,tanh
+Dense,128,relu
+Dense,288,relu
+Dense,10,softmax

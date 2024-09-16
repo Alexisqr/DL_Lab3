@@ -1,0 +1,2 @@
+activation,units_input,units_hidden,optimizer,score
+relu,704,320,adam,0.8978333473205566
